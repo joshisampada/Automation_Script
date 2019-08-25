@@ -1,0 +1,14 @@
+2019-08-25 20:12:47,299  INFO [main] LogReports:21 - The price of first product is:30.0
+2019-08-25 20:12:47,342  INFO [main] LogReports:21 - The price of second product is:22.0
+2019-08-25 20:12:47,404  INFO [main] LogReports:21 - The total price of product is:52.0
+2019-08-25 20:12:47,404  INFO [main] LogReports:21 - The grandtotal of both product price is:52.0
+2019-08-25 20:12:47,449  INFO [main] LogReports:21 - The number of products added to cart is:2
+2019-08-25 20:12:47,508  INFO [main] LogReports:21 - Cart – ToolsQA Demo Site
+2019-08-25 20:12:47,556  INFO [main] LogReports:21 - Cart – ToolsQA Demo Site
+2019-08-25 20:12:47,556  INFO [main] LogReports:21 - http://shop.demoqa.com/cart/
+2019-08-25 20:13:00,883  INFO [main] LogReports:21 - The price of first product is:60.0
+2019-08-25 20:13:02,940  INFO [main] LogReports:21 - The price of product after removal is:45.0
+2019-08-25 20:13:02,986  INFO [main] LogReports:21 - The price of second product is:44.0
+2019-08-25 20:13:02,986  INFO [main] LogReports:21 - The price grandtotal of products before removal is:104.0
+2019-08-25 20:13:03,048  INFO [main] LogReports:21 - The total price of product is:89.0
+2019-08-25 20:13:03,049  INFO [main] LogReports:21 - The price grandtotal of products after removal is:89.0
